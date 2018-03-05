@@ -1,2 +1,4 @@
-# CSS-Lesson-6-Nav-
-<script async src="//jsfiddle.net/skilldev/610djytL/embed/html,css,result/"></script>
+# CSS-Lesson-6-Nav
+
+#### You can check demo here:
+[Demo](https://jsfiddle.net/skilldev/610djytL/)
